@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Mayukha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvadari&show_icons=true&theme=highcontrast)
+
+![Visitor Count](https://profile-counter.glitch.me/mvadari/count.svg)

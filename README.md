@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mayukha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvadari&show_icons=true&theme=highcontrast)
+<a href="https://github.com/mvadari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvadari&layout=compact&langs_count=10&theme=highcontrast" alt="Most used languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvadari&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
 
 ![Visitor Count](https://profile-counter.glitch.me/mvadari/count.svg)
